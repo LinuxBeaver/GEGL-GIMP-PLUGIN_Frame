@@ -52,5 +52,8 @@ ninja -C build
 https://github.com/LinuxBeaver/GEGL-STONE-TEXT
 ![image](https://github.com/LinuxBeaver/Basic-Frame-Gimp-Plugin/assets/78667207/77accca8-52c9-40c0-ab8f-1af685eb4f8d)
 
+![image](https://github.com/LinuxBeaver/Basic-Frame-Gimp-Plugin/assets/78667207/10915946-ce4e-480b-9dce-e71e5d077154)
+
+
 
 
