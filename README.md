@@ -43,10 +43,3 @@ meson setup --buildtype=release build
 ninja -C build
 
 
-
-
-
-## Enjoy
-
-![image](https://github.com/LinuxBeaver/GEGL-glossy-balloon-text-styling/assets/78667207/0ab62e35-33bb-4a88-a420-37a3d721e56f)
-
