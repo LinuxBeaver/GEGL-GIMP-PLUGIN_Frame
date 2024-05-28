@@ -31,10 +31,10 @@ lb:threshold-alpha alphadegree=9 lb:threshold-alpha alphadegree=9 lb:threshold-a
 #ifdef GEGL_PROPERTIES
 
 #define prepare_canvas \
-" id=1 src  aux=[ ref=1 color ] crop "\
+" id=1 src  aux=[ ref=1 color value=black ] crop "\
 
 #define ta2spam \
-" lb:threshold-alpha alphadegree=9 lb:threshold-alpha alphadegree=9 lb:threshold-alpha alphadegree=9 lb:threshold-alpha alphadegree=9 lb:threshold-alpha alphadegree=9 lb:threshold-alpha alphadegree=9 "\
+" lb:threshold-alpha  lb:threshold-alpha  lb:threshold-alpha lb:threshold-alpha  lb:threshold-alpha  lb:threshold-alpha  "\
 
 #define invert_transparency_meme \
 " color-overlay value=#ffffff dst-over aux=[ color value=#000000  ] color-to-alpha color=#ffffff invert "\
