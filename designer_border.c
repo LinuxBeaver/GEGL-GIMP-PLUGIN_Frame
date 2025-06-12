@@ -13,7 +13,7 @@
  * You should have received a copy of the GNU Lesser General Public
  * License along with GEGL; if not, see <https://www.gnu.org/licenses/>.
  *
- * Credit to Øvind Kolas (pippin) for major GEGL contributions
+ * Credit to Øyvind Kolås (pippin) for major GEGL contributions
  * 2023 Beaver, Frame.
 
 Test static preview of this plugin by installing by pasting this syntax. Requires lb:threshold-alpha and lb:glossy-balloon that ship with the plugin.
